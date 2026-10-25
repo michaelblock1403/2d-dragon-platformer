@@ -1,13 +1,10 @@
-# 2D Platformer - Dragon-UTD-UWP
-Ein mit Unity und C# entwickelter 2D-Platformer, in dem ein Drache tödlichen Fallen, Hindernissen und Gegnern ausweichen muss.
-
 # 2D Dragon Platformer
 
 Ein mit **Unity und C#** entwickelter 2D-Platformer, in dem ein Drache tödlichen Fallen, Hindernissen und Gegnern ausweichen muss.
 
 ## 🎮 Spiel ausprobieren
 
-**[▶ Jetzt im Browser spielen](https://play.unity.com/api/v1/games/game/952394e5-8888-44da-a61a-c9983c47f4f3/build/latest/frame)**
+**[▶ Jetzt im Browser spielen](https://play.unity.com/en/games/952394e5-8888-44da-a61a-c9983c47f4f3/2d-platformer)**
 
 Das Spiel kann direkt im Browser über Unity Play gespielt werden.
 
